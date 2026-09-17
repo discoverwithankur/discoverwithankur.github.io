@@ -20,5 +20,3 @@ This platform documents my learning journey through analytical essays, research 
 * **Public Policy & Governance:** Understanding institutions, administrative systems, economic reforms, development strategies, and governance challenges.
 
 ---
-
-I believe that studying history helps us understand the present, while analysing the present helps us prepare for the future.

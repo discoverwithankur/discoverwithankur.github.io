@@ -18,16 +18,6 @@ This platform documents my learning journey through analytical essays, research 
 * **Geopolitics & International Relations:** Studying diplomacy, strategic affairs, global power shifts, regional dynamics, and India's role in the changing world order.
 
 * **Public Policy & Governance:** Understanding institutions, administrative systems, economic reforms, development strategies, and governance challenges.
-  
----
-
-## Explore
-
-* **[Blog Posts](/posts/):** Essays, commentary, and analysis on current affairs and global developments.
-
-* **[Publications & Research Notes](/publications/):** Research drafts, structured notes, and thematic studies.
-
-* **[Portfolio](/portfolio/):** Selected projects, writing collections, and academic work.
 
 ---
 

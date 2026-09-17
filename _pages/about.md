@@ -18,9 +18,7 @@ This platform documents my learning journey through analytical essays, research 
 * **Geopolitics & International Relations:** Studying diplomacy, strategic affairs, global power shifts, regional dynamics, and India's role in the changing world order.
 
 * **Public Policy & Governance:** Understanding institutions, administrative systems, economic reforms, development strategies, and governance challenges.
-
-* **Ideas & Perspectives:** Independent analysis of contemporary events, emerging trends, and important debates shaping societies.
-
+  
 ---
 
 ## Explore
@@ -34,11 +32,3 @@ This platform documents my learning journey through analytical essays, research 
 ---
 
 I believe that studying history helps us understand the present, while analysing the present helps us prepare for the future.
-
-For academic discussions, collaborations, or correspondence, feel free to connect through the contact details provided in the sidebar.
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
